@@ -1,24 +1,24 @@
 # AI Automation & Business Intelligence Portfolio
 
-Portfolio website yang menampilkan proyek-proyek AI Automation, n8n Workflow, Business Intelligence Dashboard, dan Python Automation dalam satu tampilan modern.
+A modern portfolio website showcasing AI Automation workflows, n8n projects, Business Intelligence dashboards, and Python automation solutions in a clean and responsive interface.
 
 ## Preview
 
-Tema menggunakan **Graphite + Amber** dengan tipografi **IBM Plex**, serta hero section berupa diagram pipeline **Data → Automation → Dashboard** untuk menampilkan fokus utama sebagai AI Automation & BI Builder.
+The portfolio features a **Graphite + Amber** color theme with **IBM Plex** typography, highlighted by an animated **Data → Automation → Dashboard** pipeline in the hero section to reflect a data-driven automation focus.
 
 ## Features
 
 * Animated pipeline hero section
-* Responsive design
-* Project cards dengan hasil kerja yang terukur
-* Skill categories dengan konteks penggunaan
-* Smooth scrolling & interactive UI
+* Responsive design for desktop and mobile
+* Project cards with measurable outcomes
+* Categorized skills with real-world context
+* Smooth scrolling and interactive UI
 
 ## Tech Stack
 
 * HTML5
 * CSS3
-* JavaScript (Vanilla)
+* Vanilla JavaScript
 * IBM Plex Font
 * GitHub Pages
 
@@ -38,34 +38,36 @@ portfolio/
 
 ### Personal Information
 
-* Ganti nama pada `index.html` (title, navbar, hero)
-* Perbarui deskripsi pada `hero__desc`
-* Ubah alamat email pada `script.js`
+Update the following before publishing:
+
+* Replace your name in `index.html` (title, navigation, and hero section).
+* Edit the `hero__desc` text.
+* Update the email address in `script.js`.
 
 ### Skills
 
-Kelompokkan kemampuan sesuai bidang:
+Organize your skills into three categories:
 
-* Automation (n8n, AI Agents, Workflow Automation)
-* Data & BI (Power BI, Excel, Dashboard)
-* Programming (Python, SQL)
+* **Automation** – n8n, AI Agents, Workflow Automation
+* **Data & BI** – Power BI, Excel, Dashboard Development
+* **Programming** – Python, SQL
 
 ### Projects
 
-* Ganti screenshot atau GIF pada `assets/images/`
-* Isi deskripsi proyek sesuai hasil nyata
-* Tambahkan link GitHub dan Live Demo
-* Jika belum memiliki metrik seperti "-83% waktu kerja", lebih baik hapus badge daripada mengisi angka yang tidak nyata.
+* Replace screenshots or GIFs in `assets/images/`.
+* Update project descriptions with real achievements.
+* Add GitHub and Live Demo links.
+* If you don't have verified metrics (e.g., "-83% processing time"), remove the statistic badge instead of using estimated numbers.
 
 ## Deployment
 
-Website di-host menggunakan **GitHub Pages**.
+This website is deployed with **GitHub Pages**.
 
-1. Buat repository public bernama `username.github.io`.
-2. Upload seluruh file proyek.
-3. Buka **Settings → Pages**.
-4. Pilih Branch `main` dan Folder `/ (root)`.
-5. Simpan, lalu akses:
+1. Create a public repository named `username.github.io`.
+2. Upload all project files.
+3. Go to **Settings → Pages**.
+4. Select the `main` branch and the `/ (root)` folder.
+5. Save and access your portfolio at:
 
 ```text
 https://username.github.io
@@ -73,4 +75,4 @@ https://username.github.io
 
 ## Contact
 
-Silakan hubungi melalui LinkedIn atau email yang tercantum pada website.
+Feel free to connect through LinkedIn or the email listed on the website.
